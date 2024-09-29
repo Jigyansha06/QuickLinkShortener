@@ -1,19 +1,19 @@
 QuickLink Shortener
 
-Description
+Description: 
 QuickLink Shortener is a simple console-based application that allows users to shorten long URLs and retrieve the original URLs using the shortened versions. The application helps manage long URLs by converting them into shorter, more manageable links.
 
-Features
+Features:
 URL Input and Output: Accepts a long URL and provides a shortened version.
 URL Mapping: Generates a unique short link for each long URL.
 Data Storage: Temporarily stores original and shortened URLs in memory.
 URL Retrieval: Allows users to retrieve the original URL using the shortened version.
 Error Handling: Handles invalid URLs and duplicate entries gracefully.
 
-Technologies Used
+Technologies Used:
 Java: For core functionality and URL mapping logic.
 
-How to Run
+How to Run:
 1. Clone the Repository:
 git clone https://github.com/Jigyansha06/QuickLinkShortener.git
 cd QuickLinkShortener
@@ -26,13 +26,13 @@ Right-click on QuickLinkShortener and select Run 'QuickLinkShortener.main()'.
 4. Follow the Prompts:
 The console will present options to shorten URLs or retrieve the original URLs.
 
-Example Usage
+Example Usage:
 To shorten a URL, enter a long URL when prompted.
 To retrieve the original URL, enter the shortened URL provided by the application.
 Contributing
 Contributions are welcome! If you have suggestions for improvements, please fork the repository and submit a pull request.
 
-Contact
+Contact:
 For any questions or feedback, please reach out to:
 
 Jigyansha Mohapatra
